@@ -32,7 +32,9 @@ Developed an interactive Store Sales Dashboard using Microsoft Excel to analyze 
 
 ## Dashboard Preview
 
-(Screenshot (13).png)
+## Dashboard Preview
+
+![Store Sales Dashboard](Screenshot (13).png)
 
 ## Skills Demonstrated
 - Data Cleaning
