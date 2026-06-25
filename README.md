@@ -31,9 +31,8 @@ Developed an interactive Store Sales Dashboard using Microsoft Excel to analyze 
 ✔ Regional Performance Monitoring
 
 ## Dashboard Preview
-
-## Dashboard Preview
 ![Store Sales Dashboard](Screenshot%20(13).png)
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Analysis
