@@ -33,9 +33,7 @@ Developed an interactive Store Sales Dashboard using Microsoft Excel to analyze 
 ## Dashboard Preview
 
 ## Dashboard Preview
-
-https://github.com/jayeshjadhav8652-cpu/store_sales_data/blob/main/Screenshot%20(13).png
-
+![Store Sales Dashboard](Screenshot%20(13).png)
 ## Skills Demonstrated
 - Data Cleaning
 - Data Analysis
